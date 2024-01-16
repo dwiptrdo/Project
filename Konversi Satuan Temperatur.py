@@ -31,4 +31,4 @@ print("\nKONVERSI KELVIN KE LAINNYA")
 
 # program konversi kelvin ke lainnya
 kelvin_fahrenheit = (1.8 * (kelvin - 273)) + 32
-print("suhunya adalah", kelvin_fahrenheit, "Ffahrenheit")
+print("suhunya adalah", kelvin_fahrenheit, "Fahrenheit")
